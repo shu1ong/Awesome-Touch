@@ -34,6 +34,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 ## Sensors
 
 ### Vision-Based
+<details>
 - [Planar and finger-shaped optical tactile sensors for robotic applications](https://ieeexplore.ieee.org/abstract/document/20431), Begej et al., IEEE Journal on Robotics and Automation 1988
 
 - [A finger-shaped tactile sensor using an optical waveguide](https://ieeexplore.ieee.org/abstract/document/390885), Maekawa et al., SMC 1993
@@ -312,7 +313,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging](https://arxiv.org/abs/2501.09273), Xu et al., arxiv 2025
 
-
+</details>
 <!---
 - [](), xxx et al., yyy 2023
 -->
